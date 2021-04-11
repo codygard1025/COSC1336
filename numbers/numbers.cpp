@@ -50,7 +50,7 @@ int main() {//initialize main
         std::cout << ">Inputs are equal to each other." << std::endl;
     }else{
         std::cout << ">Largest Input: " << largest << "." << std::endl;
-        std::cout << ">Largest Input: " << smallest << "." << std::endl;
+        std::cout << ">Smallest Input: " << smallest << "." << std::endl;
     }
     std::cout << " " << std::endl;
     std::cout << ">Sum: " << sum << std::endl;
